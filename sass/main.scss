@@ -1,3 +1,13 @@
-*{
-    box-sizing: border-box;
-}
+@import "./fonts";
+@import "./var";
+@import "./base";
+@import "./responsive";
+@import "./animation";
+@import "./leyout/header";
+@import "./leyout/contact";
+@import "./leyout/hero";
+@import "./leyout/counter";
+@import "./leyout/testimonial";
+@import "./leyout/footer";
+@import "./pages/home";
+
